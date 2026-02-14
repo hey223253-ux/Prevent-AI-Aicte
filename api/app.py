@@ -24,9 +24,8 @@ app = FastAPI(
     description=(
         "Predicts 3–5 year risk probability for Type 2 Diabetes, "
         "Cardiovascular Disease, and Hypertension.\n\n"
-        "⚠️ **MEDICAL DISCLAIMER**: This system is for educational and research "
-        "purposes only. It is NOT a substitute for professional medical advice, "
-        "diagnosis, or treatment. Always seek the advice of your physician or "
+        "⚠️ **MEDICAL DISCLAIMER**: This system is for research "
+        "purposes only.Always seek the advice of your physician or "
         "other qualified health provider."
     ),
     version="1.0.0"
